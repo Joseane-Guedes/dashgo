@@ -3,8 +3,8 @@ import { Flex, Input, Button, Stack, FormLabel, FormControl } from "@chakra-ui/r
 export default function Home() {
   return (
     <Flex
-      w="100vh"
-      h="100vh"
+      w="100vw" //Viewport Width
+      h="100vh" //Viewport Height
       align="center"
       justify="center"
     >
