@@ -30,7 +30,7 @@ export default function SignIn() {
           size="lg">
           Entrar
         </Button>
-      </Flex>
+      </Flex> 
     </Flex>
   );
 }
