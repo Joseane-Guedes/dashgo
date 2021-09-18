@@ -32,3 +32,7 @@ export const theme = extendTheme<Theme>({
 // m: margin
 // mr: margin-right 
 // bg: background 
+<<<<<<< HEAD
+=======
+// test
+>>>>>>> parent of 912b35b... test2
