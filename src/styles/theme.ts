@@ -32,4 +32,3 @@ export const theme = extendTheme<Theme>({
 // m: margin
 // mr: margin-right 
 // bg: background 
-// teste2
