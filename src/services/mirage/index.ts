@@ -2,9 +2,11 @@ import { createServer, Factory, Model, Response, ActiveModelSerializer } from "m
 import faker from 'faker'
 
 type User = {
+ 
     name: string;
     email: string;
     created_at: string;
+
 };
 
 export function makeServer() {
@@ -55,6 +57,7 @@ export function makeServer() {
         )
       });
 
+      this.get('/users/:id');
       this.post('/users');
 
       this.namespace = '';
