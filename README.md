@@ -4,8 +4,8 @@
 
 <p align="center">
    <img alt="repo size" src="https://img.shields.io/github/repo-size/Joseane-Guedes/dashgo" />
-  <img alt="issues" src="	https://img.shields.io/github/issues/Joseane-Guedes/dashgo" />
-  <img alt="forks" src="	https://img.shields.io/github/forks/Joseane-Guedes/dashgo"/>
+  <img alt="issues" src="https://img.shields.io/github/issues/Joseane-Guedes/dashgo" />
+  <img alt="forks" src="https://img.shields.io/github/forks/Joseane-Guedes/dashgo"/>
   <img alt="Stars" src="https://img.shields.io/github/stars/Joseane-Guedes/dashgo" />
   <img alt="Twitter" src="https://img.shields.io/twitter/follow/JoseaneGuedes8?style=social">
   <img alt="Languages" src="https://img.shields.io/github/languages/count/Joseane-Guedes/dashgo">
